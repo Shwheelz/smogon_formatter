@@ -1,0 +1,818 @@
+{
+	"kanto": [{
+				"dexno":"003",
+				"name":"Venusaur",
+				"type1":"Grass",
+				"type2":"Poison",
+				"nature":"Modest",
+				"ability":"Overgrow",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"003",
+				"name":"Venusaur",
+				"type1":"Grass",
+				"type2":"Poison",
+				"nature":"Bold",
+				"ability":"Thick Fat",
+				"ball":"Nest Ball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":"Giga Drain"
+			},{
+				"dexno":"006",
+				"name":"Charizard",
+				"type1":"Fire",
+				"type2":"Flying",
+				"nature":"Modest",
+				"ability":"Blaze",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":"Dragon Pulse"
+			},{
+				"dexno":"012",
+				"name":"Butterfree",
+				"type1":"Bug",
+				"type2":"Flying",
+				"nature":"Modest",
+				"ability":"Shield Dust",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"015",
+				"name":"Beedrill",
+				"type1":"Bug",
+				"type2":"Poison",
+				"nature":"Adamant",
+				"ability":"Swarm",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"031",
+				"name":"Nidoqueen",
+				"type1":"Poison",
+				"type2":"Ground",
+				"nature":"Impish",
+				"ability":"Poison Point",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"040",
+				"name":"Wigglytuff",
+				"type1":"Normal",
+				"type2":"Fairy",
+				"nature":"Bold",
+				"ability":"Cute Charm",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"062",
+				"name":"Poliwrath",
+				"type1":"Water",
+				"type2":"Fighting",
+				"nature":"Jolly",
+				"ability":"Water Absorb",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"080",
+				"name":"Slowbro",
+				"type1":"Water",
+				"type2":"Psychic",
+				"nature":"Brave",
+				"ability":"Own Tempo",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/0",
+				"eggmoves":"Belly Drum, Zen Headbutt"
+			},{
+				"dexno":"085",
+				"name":"Dodrio",
+				"type1":"Flying",
+				"type2":"Normal",
+				"nature":"Jolly",
+				"ability":"Early Bird",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Brave Bird, Quick Attack"
+			},{
+				"dexno":"087",
+				"name":"Dewgong",
+				"type1":"Water",
+				"type2":"Ice",
+				"nature":"Modest",
+				"ability":"Hydration",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"089",
+				"name":"Muk",
+				"type1":"Poison",
+				"type2":"",
+				"nature":"Adamant",
+				"ability":"Sticky Hold",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Curse, Shadow Sneak"
+			},{
+				"dexno":"097",
+				"name":"Hypno",
+				"type1":"Psychic",
+				"type2":"",
+				"nature":"Calm | Modest",
+				"ability":"Insomnia",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"103",
+				"name":"Exeggutor",
+				"type1":"Grass",
+				"type2":"Psychic",
+				"nature":"Modest",
+				"ability":"Chlorophyll",
+				"ball":"Fast Ball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"103",
+				"name":"Exeggutor",
+				"type1":"Grass",
+				"type2":"Psychic",
+				"nature":"Modest",
+				"ability":"Chlorophyll",
+				"ball":"Fast Ball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":"Moonlight, Giga Drain"
+			},{
+				"dexno":"121",
+				"name":"Starmie",
+				"type1":"Water",
+				"type2":"Psychic",
+				"nature":"Modest | Timid",
+				"ability":"Natural Cure",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"131",
+				"name":"Lapras",
+				"type1":"Water",
+				"type2":"Ice",
+				"nature":"Calm | Modest",
+				"ability":"Hydration",
+				"ball":"Dive Ball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":"Ancient Power, Freeze-Dry"
+			},{
+				"dexno":"149",
+				"name":"Dragonite",
+				"type1":"Dragon",
+				"type2":"Flying",
+				"nature":"Adamant",
+				"ability":"Multiscale",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Extremespeed, Dragon Dance"
+			}],
+	"johto": [{
+				"dexno":"160",
+				"name":"Feraligatr",
+				"type1":"Water",
+				"type2":"",
+				"nature":"Jolly",
+				"ability":"Sheer Force",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Dragon Dance, Ice Punch"
+			},{
+				"dexno":"162",
+				"name":"Furret",
+				"type1":"Normal",
+				"type2":"",
+				"nature":"Jolly",
+				"ability":"Keen Eye",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Trick"
+			},{
+				"dexno":"169",
+				"name":"Crobat",
+				"type1":"Poison",
+				"type2":"Flying",
+				"nature":"Jolly",
+				"ability":"Inner Focus",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"181",
+				"name":"Ampharos",
+				"type1":"Electric",
+				"type2":"",
+				"nature":"Modest",
+				"ability":"Static",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"184",
+				"name":"Azumarill",
+				"type1":"Water",
+				"type2":"Fairy",
+				"nature":"Adamant",
+				"ability":"Huge Power",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Aqua Jet, Belly Drum, Superpower"
+			},{
+				"dexno":"212",
+				"name":"Scizor",
+				"type1":"Bug",
+				"type2":"Steel",
+				"nature":"Adamant",
+				"ability":"Technician",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"219",
+				"name":"Magcargo",
+				"type1":"Fire",
+				"type2":"Rock",
+				"nature":"Bold | Modest",
+				"ability":"Flame Body",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"230",
+				"name":"Kingdra",
+				"type1":"Water",
+				"type2":"Dragon",
+				"nature":"Adamant",
+				"ability":"Swift Swim",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Outrage"
+			},{
+				"dexno":"232",
+				"name":"Miltank",
+				"type1":"Normal",
+				"type2":"",
+				"nature":"Careful",
+				"ability":"Scrappy",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Curse, Seismic Toss"
+			},{
+				"dexno":"237",
+				"name":"Hitmontop",
+				"type1":"Fighting",
+				"type2":"",
+				"nature":"Adamant",
+				"ability":"Intimidate",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Mach Punch"
+			},{
+				"dexno":"242",
+				"name":"Blissey",
+				"type1":"Normal",
+				"type2":"",
+				"nature":"Calm",
+				"ability":"Natural Cure",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":"Aromatherapy, Seismic Toss"
+			},{
+				"dexno":"248",
+				"name":"Tyranitar",
+				"type1":"Rock",
+				"type2":"Dark",
+				"nature":"Modest",
+				"ability":"Sand Stream",
+				"ball":"Heavy Ball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"248",
+				"name":"Tyranitar",
+				"type1":"Rock",
+				"type2":"Dark",
+				"nature":"Adamant",
+				"ability":"Sand Stream",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Dragon Dance"
+			}],
+	"hoenn": [{
+				"dexno":"254",
+				"name":"Sceptile",
+				"type1":"Grass",
+				"type2":"",
+				"nature":"Adamant",
+				"ability":"Overgrow",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Natural Gift"
+			},{
+				"dexno":"254",
+				"name":"Sceptile",
+				"type1":"Grass",
+				"type2":"",
+				"nature":"Modest | Timid",
+				"ability":"Overgrow",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":"Leaf Storm"
+			},{
+				"dexno":"282",
+				"name":"Gardevoir",
+				"type1":"Psychic",
+				"type2":"Fairy",
+				"nature":"Bold | Modest",
+				"ability":"Synchronize | Trace",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":"Destiny Bond, Confuse Ray"
+			},{
+				"dexno":"291",
+				"name":"Ninjask",
+				"type1":"Bug",
+				"type2":"Flying",
+				"nature":"Jolly",
+				"ability":"Compoundeyes",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"292",
+				"name":"Shedinja",
+				"type1":"Bug",
+				"type2":"Ghost",
+				"nature":"Jolly",
+				"ability":"Wonder Guard",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"302",
+				"name":"Sableye",
+				"type1":"Ghost",
+				"type2":"Dark",
+				"nature":"Bold | Calm | Modest",
+				"ability":"Prankster",
+				"ball":"Dusk Ball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":"Recover"
+			},{
+				"dexno":"303",
+				"name":"Mawile",
+				"type1":"Steel",
+				"type2":"Fairy",
+				"nature":"Adamant | Careful",
+				"ability":"Intimidate",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Sucker Punch"
+			},{
+				"dexno":"306",
+				"name":"Aggron",
+				"type1":"Steel",
+				"type2":"Rock",
+				"nature":"Careful",
+				"ability":"Rock Head",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Head Smash, Stealth Rock, Iron Head"
+			},{
+				"dexno":"308",
+				"name":"Medicham",
+				"type1":"Fighting",
+				"type2":"Psychic",
+				"nature":"Jolly",
+				"ability":"Pure Power",
+				"ball":"Dive Ball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Fake Out, Bullet Punch, Drain Punch"
+			},{
+				"dexno":"338",
+				"name":"Solrock",
+				"type1":"Rock",
+				"type2":"Psychic",
+				"nature":"Impish",
+				"ability":"Levitate",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"348",
+				"name":"Armaldo",
+				"type1":"Bug",
+				"type2":"Rock",
+				"nature":"Adamant",
+				"ability":"Battle Armor",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"352",
+				"name":"Kecleon",
+				"type1":"Normal",
+				"type2":"",
+				"nature":"Adamant",
+				"ability":"Protean",
+				"ball":"Luxury Ball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"354",
+				"name":"Banette",
+				"type1":"Ghost",
+				"type2":"",
+				"nature":"Adamant",
+				"ability":"Cursed Body",
+				"ball":"Luxury Ball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Destiny Bond, Shadow Sneak"
+			},{
+				"dexno":"358",
+				"name":"Chimecho",
+				"type1":"Psychic",
+				"type2":"",
+				"nature":"Bold | Modest",
+				"ability":"Levitate",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":"Hypnosis"
+			},{
+				"dexno":"362",
+				"name":"Glalie",
+				"type1":"Ice",
+				"type2":"",
+				"nature":"Adamant",
+				"ability":"Inner Focus",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Spikes"
+			}],	
+	"sinnoh": [{
+				"dexno":"400",
+				"name":"Bibarel",
+				"type1":"Normal",
+				"type2":"Water",
+				"nature":"Adamant | Jolly",
+				"ability":"Simple",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Quick Attack"
+			},{
+				"dexno":"424",
+				"name":"Ambipom",
+				"type1":"Normal",
+				"type2":"",
+				"nature":"Adamant | Jolly",
+				"ability":"Technician",
+				"ball":"Love Ball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Fake Out, Covet, Pursuit"
+			},{
+				"dexno":"442",
+				"name":"Spiritomb",
+				"type1":"Ghost",
+				"type2":"Dark",
+				"nature":"Bold | Modest",
+				"ability":"Pressure",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"445",
+				"name":"Garchomp",
+				"type1":"Dragon",
+				"type2":"Ground",
+				"nature":"Jolly",
+				"ability":"Sand Veil",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Iron Head, Outrage"
+			},{
+				"dexno":"450",
+				"name":"Hippowdon",
+				"type1":"Ground",
+				"type2":"",
+				"nature":"Impish",
+				"ability":"Sand Stream",
+				"ball":"Luxury Ball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Slack Off, Whirlwind, Stockpile"
+			},{
+				"dexno":"452",
+				"name":"Drapion",
+				"type1":"Poison",
+				"type2":"Dark",
+				"nature":"Jolly",
+				"ability":"Sniper",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Night Slash"
+			},{
+				"dexno":"461",
+				"name":"Weavile",
+				"type1":"Dark",
+				"type2":"Ice",
+				"nature":"Adamant",
+				"ability":"Inner Focus",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Taunt, Counter, Fake Out, Ice Punch"
+			},{
+				"dexno":"463",
+				"name":"Lickilicky",
+				"type1":"Normal",
+				"type2":"",
+				"nature":"Impish",
+				"ability":"Own Tempo",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Curse"
+			},{
+				"dexno":"468",
+				"name":"Togekiss",
+				"type1":"Fairy",
+				"type2":"Flying",
+				"nature":"Modest",
+				"ability":"Serene Grace",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"472",
+				"name":"Gliscor",
+				"type1":"Ground",
+				"type2":"Flying",
+				"nature":"Impish",
+				"ability":"Hyper Cutter",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Baton Pass"
+			},{
+				"dexno":"474",
+				"name":"Porygon-Z",
+				"type1":"Normal",
+				"type2":"",
+				"nature":"Modest",
+				"ability":"Trace",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"475",
+				"name":"Gallade",
+				"type1":"Psychic",
+				"type2":"Fighting",
+				"nature":"Adamant",
+				"ability":"Steadfast",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Destiny Bond"
+			},{
+				"dexno":"489",
+				"name":"Phione",
+				"type1":"Water",
+				"type2":"",
+				"nature":"Modest",
+				"ability":"Hydration",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":""
+			}],
+	"unova": [{
+				"dexno":"497",
+				"name":"Serperior",
+				"type1":"Grass",
+				"type2":"",
+				"nature":"Modest",
+				"ability":"Contrary",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":"Mirror Coat, Magical Leaf, Glare"
+			},{
+				"dexno":"560",
+				"name":"Scrafty",
+				"type1":"Fighting",
+				"type2":"Dark",
+				"nature":"Adamant",
+				"ability":"Intimidate",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Dragon Dance, Ice Punch, Fake Out, Drain Punch"
+			},{
+				"dexno":"563",
+				"name":"Cofagrigus",
+				"type1":"Ghost",
+				"type2":"",
+				"nature":"Bold | Modest",
+				"ability":"Mummy",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":"Toxic Spikes, Nasty Plot, Disable"
+			},{
+				"dexno":"571",
+				"name":"Zoroark",
+				"type1":"Dark",
+				"type2":"",
+				"nature":"Modest | Timid",
+				"ability":"Illusion",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"573",
+				"name":"Cinccino",
+				"type1":"Normal",
+				"type2":"",
+				"nature":"Jolly",
+				"ability":"Skill Link",
+				"ball":"Luxury Ball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"589",
+				"name":"Escavalier",
+				"type1":"Bug",
+				"type2":"Steel",
+				"nature":"Adamant",
+				"ability":"Shell Armor",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Drill Run, Knock Off, Megahorn"
+			},{
+				"dexno":"593",
+				"name":"Jellicent",
+				"type1":"Water",
+				"type2":"Ghost",
+				"nature":"Bold | Calm | Modest",
+				"ability":"Water Absorb",
+				"ball":"Dive Ball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":"Recover"
+			},{
+				"dexno":"620",
+				"name":"Mienshao",
+				"type1":"Fighting",
+				"type2":"",
+				"nature":"Jolly",
+				"ability":"Regenerator",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Knock Off"
+			},{
+				"dexno":"630",
+				"name":"Mandibuzz",
+				"type1":"Dark",
+				"type2":"Flying",
+				"nature":"Impish",
+				"ability":"Big Pecks",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Knock Off, Foul Play, Roost"
+			}],
+	"kalos": [{
+				"dexno":"652",
+				"name":"Chesnaut",
+				"type1":"Grass",
+				"type2":"Fighting",
+				"nature":"Impish",
+				"ability":"Overgrow",
+				"ball":"Premier Ball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Synthesis, Curse, Spikes"
+			},{
+				"dexno":"660",
+				"name":"Diggersby",
+				"type1":"Ground",
+				"type2":"Normal",
+				"nature":"Adamant",
+				"ability":"Huge Power",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"663",
+				"name":"Talonflame",
+				"type1":"Fire",
+				"type2":"Flying",
+				"nature":"Adamant",
+				"ability":"Gale Wings",
+				"ball":"Repeat Ball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"666",
+				"name":"Vivillon",
+				"type1":"Bug",
+				"type2":"Flying",
+				"nature":"Timid",
+				"ability":"Compoundeyes",
+				"ball":"Net Ball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":"Rage Powder, Poisonpowder, Stun Spore"
+			},{
+				"dexno":"676",
+				"name":"Furfrou",
+				"type1":"Normal",
+				"type2":"",
+				"nature":"Impish",
+				"ability":"Fur Coat",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"681",
+				"name":"Aegislash",
+				"type1":"Ghost",
+				"type2":"Steel",
+				"nature":"Brave",
+				"ability":"Stance Change",
+				"ball":"Premier Ball",
+				"ivs":"31/31/31/x/31/0",
+				"eggmoves":"Shadow Sneak"
+			},{
+				"dexno":"681",
+				"name":"Aegislash",
+				"type1":"Ghost",
+				"type2":"Steel",
+				"nature":"Adamant",
+				"ability":"Stance Change",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Shadow Sneak"
+			},{
+				"dexno":"685",
+				"name":"Slurpuff",
+				"type1":"Fairy",
+				"type2":"",
+				"nature":"Adamant",
+				"ability":"Unburden",
+				"ball":"Luxury Ball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Belly Drum"
+			},{
+				"dexno":"691",
+				"name":"Dragalge",
+				"type1":"Dragon",
+				"type2":"Poison",
+				"nature":"Modest",
+				"ability":"Poison Point",
+				"ball":"Net Ball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"697",
+				"name":"Tyrantrum",
+				"type1":"Dragon",
+				"type2":"Rock",
+				"nature":"Jolly",
+				"ability":"Strong Jaw",
+				"ball":"Pokeball",
+				"ivs":"31/31/31/x/31/31",
+				"eggmoves":"Dragon Dance, Fire Fang, Ice Fang, Thunder Fang"
+			},{
+				"dexno":"706",
+				"name":"Goodra",
+				"type1":"Dragon",
+				"type2":"",
+				"nature":"Calm | Modest",
+				"ability":"Sap Sipper | Hydration",
+				"ball":"Dive Ball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":"Acid Armor"
+			},{
+				"dexno":"707",
+				"name":"Klefki",
+				"type1":"Steel",
+				"type2":"Fairy",
+				"nature":"Bold",
+				"ability":"Prankster",
+				"ball":"Pokeball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":""
+			},{
+				"dexno":"715",
+				"name":"Noivern",
+				"type1":"Dragon",
+				"type2":"Flying",
+				"nature":"Modest | Timid",
+				"ability":"Frisk | Infiltrator",
+				"ball":"Ultra Ball",
+				"ivs":"31/x/31/31/31/31",
+				"eggmoves":""
+			}]		
+}

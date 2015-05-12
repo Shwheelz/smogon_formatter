@@ -1,0 +1,88 @@
+[CENTER]
+[b] #160 Feraligatr [/b]
+[img]http://www.pokestadium.com/sprites/xy/feraligatr.gif[/img] [img]http://www.serebii.net/itemdex/sprites/pokeball.png[/img]
+Jolly
+Sheer Force
+[i]Dragon Dance, Ice Punch[/i]
+31/31/31/x/31/31
+
+[b] #162 Furret [/b]
+[img]http://www.pokestadium.com/sprites/xy/furret.gif[/img] [img]http://www.serebii.net/itemdex/sprites/pokeball.png[/img]
+Jolly
+Keen Eye
+[i]Trick[/i]
+31/31/31/x/31/31
+
+[b] #169 Crobat [/b]
+[img]http://www.pokestadium.com/sprites/xy/crobat.gif[/img] [img]http://www.serebii.net/itemdex/sprites/pokeball.png[/img]
+Jolly
+Inner Focus
+31/31/31/x/31/31
+
+[b] #181 Ampharos [/b]
+[img]http://www.pokestadium.com/sprites/xy/ampharos.gif[/img] [img]http://www.serebii.net/itemdex/sprites/pokeball.png[/img]
+Modest
+Static
+31/x/31/31/31/31
+
+[b] #184 Azumarill [/b]
+[img]http://www.pokestadium.com/sprites/xy/azumarill.gif[/img] [img]http://www.serebii.net/itemdex/sprites/pokeball.png[/img]
+Adamant
+Huge Power
+[i]Aqua Jet, Belly Drum, Superpower[/i]
+31/31/31/x/31/31
+
+[b] #212 Scizor [/b]
+[img]http://www.pokestadium.com/sprites/xy/scizor.gif[/img] [img]http://www.serebii.net/itemdex/sprites/pokeball.png[/img]
+Adamant
+Technician
+31/31/31/x/31/31
+
+[b] #219 Magcargo [/b]
+[img]http://www.pokestadium.com/sprites/xy/magcargo.gif[/img] [img]http://www.serebii.net/itemdex/sprites/pokeball.png[/img]
+Bold | Modest
+Flame Body
+31/x/31/31/31/31
+
+[b] #230 Kingdra [/b]
+[img]http://www.pokestadium.com/sprites/xy/kingdra.gif[/img] [img]http://www.serebii.net/itemdex/sprites/pokeball.png[/img]
+Adamant
+Swift Swim
+[i]Outrage[/i]
+31/31/31/x/31/31
+
+[b] #232 Miltank [/b]
+[img]http://www.pokestadium.com/sprites/xy/miltank.gif[/img] [img]http://www.serebii.net/itemdex/sprites/pokeball.png[/img]
+Careful
+Scrappy
+[i]Curse, Seismic Toss[/i]
+31/31/31/x/31/31
+
+[b] #237 Hitmontop [/b]
+[img]http://www.pokestadium.com/sprites/xy/hitmontop.gif[/img] [img]http://www.serebii.net/itemdex/sprites/pokeball.png[/img]
+Adamant
+Intimidate
+[i]Mach Punch[/i]
+31/31/31/x/31/31
+
+[b] #242 Blissey [/b]
+[img]http://www.pokestadium.com/sprites/xy/blissey.gif[/img] [img]http://www.serebii.net/itemdex/sprites/pokeball.png[/img]
+Calm
+Natural Cure
+[i]Aromatherapy, Seismic Toss[/i]
+31/x/31/31/31/31
+
+[b] #248 Tyranitar [/b]
+[img]http://www.pokestadium.com/sprites/xy/tyranitar.gif[/img] [img]http://www.serebii.net/itemdex/sprites/heavyball.png[/img]
+Modest
+Sand Stream
+31/x/31/31/31/31
+
+[b] #248 Tyranitar [/b]
+[img]http://www.pokestadium.com/sprites/xy/tyranitar.gif[/img] [img]http://www.serebii.net/itemdex/sprites/pokeball.png[/img]
+Adamant
+Sand Stream
+[i]Dragon Dance[/i]
+31/31/31/x/31/31
+
+[/CENTER]
